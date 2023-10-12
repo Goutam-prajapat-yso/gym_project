@@ -167,7 +167,7 @@ header {
 }
 
 .banner_vd {
-  margin-left: -80rem;
+  /* margin-left: -80rem; */
   height: 100vh;
   position: fixed;
   top: 0;
